@@ -1,0 +1,19 @@
+1- Em programação orientada a objetos (POO), é possível afirmar que uma “classe” é a mesma coisa que um “objeto”? Justifique e, se necessário, diferencie ambos.
+
+R:Uma classe é uma forma de representar objetos, e podemos dentro dela declarar atributos e metodos, que definem o objeto. 
+
+2- O que significa o termo “instanciar uma classe”? Explique com as suas próprias palavras. 
+
+R: A instaciar uma classe é criar uma classe especifica e descrever o tipo de objeto, o objeto é algo real e concreto dessa classe. 
+
+3- É possível utilizar o paradigma de orientação a objetos em outras linguagens de programação? Justifique.
+
+R: Sim , a utilização do paradigma de orientação ao objetos são aplicadas em outras linguagem como C++, Object Pascal etc. Devido sua capacidade de criar sistemas programas complexos e modular.
+
+4- O que significa quando dizemos que uma linguagem de programação é “multiparadigma”?
+
+R: Significa que suportam varios paradigmas de programação, assim abrindo um leque grandes de possibilidades para solucionar um problema.
+
+5-  O que é o paradigma de orientação a objetos e para que serve?
+
+R: O paradigma de orientação a objetos e uma forma de abstrair coisas e organizar, é uma forma de representar objetos, podendo declarar atributos e metodos.
